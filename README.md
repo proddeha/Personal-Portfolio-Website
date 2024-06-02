@@ -3,6 +3,8 @@
 **Personal Portfolio Website**: 
 
 - This project is a personal portfolio website created as part of an HTML examination. It showcases various sections, each designed to highlight different aspects of the portfolio, including a brief introduction, services offered, works, pricing plans, and contact information. The website is built using HTML and CSS, and features a clean, modern design with responsive layouts to ensure it looks great on all devices.
+- ![image](https://github.com/proddeha/Personal-Portfolio-Website/assets/119131830/39b70f6f-63b9-462d-acc4-4957e027b0ed)
+
 
 **Key Features**:
 
